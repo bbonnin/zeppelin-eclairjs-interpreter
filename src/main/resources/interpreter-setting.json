@@ -1,0 +1,9 @@
+[
+  {
+    "group": "eclairjs",
+    "name": "eclairjs",
+    "className": "io.millesabords.zeppelin.eclairjs.EclairjsInterpreter",
+    "properties": {
+    }
+  }
+]
